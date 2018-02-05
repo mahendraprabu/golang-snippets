@@ -1,0 +1,8 @@
+{  
+    "User":"Mahendra",
+    "Password":"Secret121",
+    "Server":"ftp.mahendra.com",
+    "LocalPath":"C:/test",
+    "FtpRemotePath":"/test",
+    "ConnectionRetry":3
+ }
