@@ -2,6 +2,7 @@ Format string: "20060102_150405.000" will
 Print time in: "yyyymmdd_hhmmss.msec" format
 
 Jan 02, 03:04:05, 2006
+:
 01 - Jan - month
 02 - date
 03 or 15 - hours (15 for 24hr format)
