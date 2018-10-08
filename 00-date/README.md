@@ -2,17 +2,17 @@ Format string: "20060102_150405.000" will
 Print time in: "yyyymmdd_hhmmss.msec" format
 
 Jan 02, 03:04:05, 2006
-:
-01 - Jan - month
-02 - date
-03 or 15 - hours (15 for 24hr format)
-04 - minutes
-05 - seconds
-06 / 2006 - year
-.000 - milli seconds
-.000000 - micro seconds
+:       
+01 - Jan - month,       
+02 - date,      
+03 or 15 - hours (15 for 24hr format),  
+04 - minutes,   
+05 - seconds,   
+06 / 2006 - year,       
+.000 - milli seconds,   
+.000000 - micro seconds 
 
-###Some useful constants from time package for date formating
+##Some useful constants from time package for date formating
 
         ANSIC       = "Mon Jan _2 15:04:05 2006"
         UnixDate    = "Mon Jan _2 15:04:05 MST 2006"
